@@ -4,8 +4,6 @@
 
 I am a student who aspires to become a web developer. Currently, I am working at a startup as a web developer to gain practical experience and enhance my skills. In my free time, I enjoy learning new things related to web development and keeping up with the latest technologies in the field. I also love to stay fit, so I often go to the gym to exercise and keep myself healthy. I am passionate about creating interactive and user-friendly websites that provide a seamless experience for visitors. My goal is to use my skills to build innovative web applications that make a positive impact on people's lives.
 
-Skills: (!())
-
 - 📫 How to reach me: E-Mail: florinsirbu280599@gmail.com 
 
 
